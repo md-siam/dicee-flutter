@@ -3,7 +3,7 @@
 The objective of this project is to introduce to the core programming concepts that will form the foundation of most of the apps. This app will teach us how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
 
-## What you will create
+## What we will create
 
 We’re going to make a Las Vegas dice app. We can make the die roll at the press of a button. With this app in your pocket, we’ll be able to settle any score on the go!
 
